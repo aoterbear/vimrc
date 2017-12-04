@@ -1,3 +1,3 @@
 # vimrc
-My ~/.vimrv file for MacOS
+My ~/.vimrc file for MacOS
 Updated by time.
