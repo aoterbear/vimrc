@@ -1,7 +1,12 @@
 set nu
 set ruler
 set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set smarttab
+set expandtab
 set nowrap
+set ignorecase
 set colorcolumn=80
 set textwidth=80
 syntax on
